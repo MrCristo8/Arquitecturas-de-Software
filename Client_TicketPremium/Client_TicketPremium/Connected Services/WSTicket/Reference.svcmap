@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="637b07cf-4db0-4dc8-8160-05de19a1b45c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cfca5466-2554-4ec2-9988-7cfb779f9b4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,11 +22,11 @@
     <MetadataSource Address="http://192.168.1.104:52358/Service/WSTicket.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="WSTicket.xsd" MetadataType="Schema" ID="af73f407-df8c-4f3c-8c92-f62857af802c" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd0" />
-    <MetadataFile FileName="WSTicket.disco" MetadataType="Disco" ID="87d35580-6327-494a-a9fb-ddff57e916bc" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?disco" />
-    <MetadataFile FileName="WSTicket1.xsd" MetadataType="Schema" ID="64432f16-e28e-47e5-b7bf-abbd37055c06" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd1" />
-    <MetadataFile FileName="WSTicket2.xsd" MetadataType="Schema" ID="c959f210-3db8-435c-8e52-c26c0ced3184" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd2" />
-    <MetadataFile FileName="WSTicket.wsdl" MetadataType="Wsdl" ID="1a1b59fb-4126-449a-a3a1-3f1016d562e8" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?wsdl" />
+    <MetadataFile FileName="WSTicket.xsd" MetadataType="Schema" ID="85053820-d96a-44e2-9439-72e5e3cfd190" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSTicket.disco" MetadataType="Disco" ID="2647db53-8ca5-40cd-a00e-98af640d43a8" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?disco" />
+    <MetadataFile FileName="WSTicket1.xsd" MetadataType="Schema" ID="c5cabb35-0b98-4aa2-b411-a41dbd995b67" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSTicket2.xsd" MetadataType="Schema" ID="79ec57c9-b8be-4a05-b7da-4a2d049ffbdb" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSTicket.wsdl" MetadataType="Wsdl" ID="f890cd4f-1112-4571-bca4-bafd39782ae8" SourceId="1" SourceUrl="http://192.168.1.104:52358/Service/WSTicket.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
