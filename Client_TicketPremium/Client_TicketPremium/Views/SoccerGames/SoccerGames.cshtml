@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 
-@model  List<Client_TicketPremium.ServiceReference1.PARTIDO_FUTBOL>
+@model  List<Client_TicketPremium.WSTicket.SoccerGame>
 
 @{
     ViewBag.Title = "SoccerGames";
@@ -25,16 +25,7 @@
                 <div class="col-md-12">
                     <div class="page-header" clearfix>
                         <h2 class="pull-left">Partidos no disputados</h2>
-                        <form action="PartidosServlet" method="POST">
-                            <div class="form-row">
-                                <div class="col-md-11">
-                                    <input type="text" class="form-control" placeholder="Equipo" name="equipo">
-                                </div>
-                                <div class="col-md-1">
-                                    <button type="submit" class="btn btn-ptimary">Buscar partido</button>
-                                </div>
-                            </div>
-                        </form>
+                        
                     </div>
                     <br><br>
                     <div class="ptable">
@@ -52,12 +43,12 @@
                                 @foreach(var game in Model)
                                 {
                                 <tr>
-                                    <td>@Html.DisplayFor(modelItem => game.EQUIPO_LOCAL)</td>
-                                    <td>@Html.DisplayFor(modelItem => game.EQUIPO_VISITA)</td>
-                                    <td>@Html.DisplayFor(modelItem => game.LUGAR)</td>
-                                    <td>@Html.DisplayFor(modelItem => game.FECHA)</td>
+                                    <td>@Html.DisplayFor(modelItem => game.local_team)</td>
+                                    <td>@Html.DisplayFor(modelItem => game.visitor_team)</td>
+                                    <td>@Html.DisplayFor(modelItem => game.place)</td>
+                                    <td>@Html.DisplayFor(modelItem => game.date_soccergame)</td>
                                     <td>
-                                        <a href="~/Bills/Bills?code=@game.CODIGO" title="Comprar" class="glyphicon-align-center" data-toggle="tooltip">
+                                        <a href="~/Bills/Bills?code=@game.code_soccergame" title="Comprar" class="glyphicon-align-center" data-toggle="tooltip">
                                             <i class="material-icons glyphicon-align-center" data-toggle="tooltip">shoping_cart</i>
                                         </a>
                                     </td>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WSTicket" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://192.168.1.104:52358/Service/WSTicket.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/TicketPremium_SOAP.Facade" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IWSTicket_getAvailableSoccerGames_InputMessage">
+    <wsdl:part name="parameters" element="tns:getAvailableSoccerGames" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getAvailableSoccerGames_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getAvailableSoccerGamesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getNotAvailableSoccerGames_InputMessage">
+    <wsdl:part name="parameters" element="tns:getNotAvailableSoccerGames" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getNotAvailableSoccerGames_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getNotAvailableSoccerGamesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getSoccerGame_InputMessage">
+    <wsdl:part name="parameters" element="tns:getSoccerGame" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getSoccerGame_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getSoccerGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getClients_InputMessage">
+    <wsdl:part name="parameters" element="tns:getClients" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getClients_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getClientsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_updateLocalitiesSoccerGame_InputMessage">
+    <wsdl:part name="parameters" element="tns:updateLocalitiesSoccerGame" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_updateLocalitiesSoccerGame_OutputMessage">
+    <wsdl:part name="parameters" element="tns:updateLocalitiesSoccerGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getReportSoccerGame_InputMessage">
+    <wsdl:part name="parameters" element="tns:getReportSoccerGame" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getReportSoccerGame_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getReportSoccerGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getClientBills_InputMessage">
+    <wsdl:part name="parameters" element="tns:getClientBills" />
+  </wsdl:message>
+  <wsdl:message name="IWSTicket_getClientBills_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getClientBillsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IWSTicket">
+    <wsdl:operation name="getAvailableSoccerGames">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getAvailableSoccerGames" message="tns:IWSTicket_getAvailableSoccerGames_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getAvailableSoccerGamesResponse" message="tns:IWSTicket_getAvailableSoccerGames_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getNotAvailableSoccerGames">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getNotAvailableSoccerGames" message="tns:IWSTicket_getNotAvailableSoccerGames_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getNotAvailableSoccerGamesResponse" message="tns:IWSTicket_getNotAvailableSoccerGames_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getSoccerGame">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getSoccerGame" message="tns:IWSTicket_getSoccerGame_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getSoccerGameResponse" message="tns:IWSTicket_getSoccerGame_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getClients">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getClients" message="tns:IWSTicket_getClients_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getClientsResponse" message="tns:IWSTicket_getClients_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="updateLocalitiesSoccerGame">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/updateLocalitiesSoccerGame" message="tns:IWSTicket_updateLocalitiesSoccerGame_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/updateLocalitiesSoccerGameResponse" message="tns:IWSTicket_updateLocalitiesSoccerGame_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getReportSoccerGame">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getReportSoccerGame" message="tns:IWSTicket_getReportSoccerGame_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getReportSoccerGameResponse" message="tns:IWSTicket_getReportSoccerGame_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getClientBills">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSTicket/getClientBills" message="tns:IWSTicket_getClientBills_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSTicket/getClientBillsResponse" message="tns:IWSTicket_getClientBills_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IWSTicket" type="tns:IWSTicket">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAvailableSoccerGames">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getAvailableSoccerGames" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNotAvailableSoccerGames">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getNotAvailableSoccerGames" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSoccerGame">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getSoccerGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getClients">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getClients" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateLocalitiesSoccerGame">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/updateLocalitiesSoccerGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getReportSoccerGame">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getReportSoccerGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getClientBills">
+      <soap:operation soapAction="http://tempuri.org/IWSTicket/getClientBills" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSTicket">
+    <wsdl:port name="BasicHttpBinding_IWSTicket" binding="tns:BasicHttpBinding_IWSTicket">
+      <soap:address location="http://192.168.1.104:52358/Service/WSTicket.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

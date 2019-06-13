@@ -1,4 +1,4 @@
-﻿using Client_TicketPremium.ServiceReference1;
+﻿using Client_TicketPremium.WSTicket;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,9 +12,9 @@ namespace Client_TicketPremium.Controllers
         // GET: SoccerGames
         public ActionResult SoccerGames()
         {
-            using (ServiceReference1.IserviceClient client=new ServiceReference1.IserviceClient())
+            using (WSTicket.WSTicketClient client=new WSTicket.WSTicketClient())
             {
-                List<PARTIDO_FUTBOL> soccerGames = client.Partidos().ToList();
+                List<SoccerGame> soccerGames = client.getAvailableSoccerGames().ToList();
                 return View(soccerGames);
             }
         }
