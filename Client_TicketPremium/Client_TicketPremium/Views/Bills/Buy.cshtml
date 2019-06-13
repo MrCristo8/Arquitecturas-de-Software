@@ -24,7 +24,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    @using (Html.BeginForm())
+                    @using (Html.BeginForm("Bill", "Bills", FormMethod.Post))
                     {
                         <h2 class="pull-left">Cabecera</h2>
                         <br>
@@ -67,6 +67,7 @@
                             </tbody>
                         </table>
                         <br />
+                        <input type="hidden" id="code" name="code" value="@ViewBag.code" />
                         <input type="submit" class="btn btn-primary" value="Finalizar compra" />
                         <a href="~/SoccerGames/SoccerGames" class="btn btn-primary">Cancelar</a>
                     }
