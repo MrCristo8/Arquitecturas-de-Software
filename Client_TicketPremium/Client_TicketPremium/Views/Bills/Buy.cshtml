@@ -24,39 +24,52 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="pull-left">Cabecera</h2>
-                    <br>
-                    <label class="form-control">Partido: &#09; @Model.local_team VS @Model.visitor_team</label>
-                    <label class="form-control">Fecha: &#09; @Model.date_soccergame</label>
-                    @Html.DropDownList("clients")
-                    <br /><br /><br />
-                    <div class="page-header">
-                        <h2>Localidades</h2>
-                    </div>
-                    <table class="table table-bordered table-striped">
-                        <thead>
-                            <tr>
-                                <th>Nombre localidad</th>
-                                <th>Disponibles</th>
-                                <th>Precio</th>
-                                <th>Cantidad</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach (var localitie in Model.localities)
-                            {
+                    @using (Html.BeginForm())
+                    {
+                        <h2 class="pull-left">Cabecera</h2>
+                        <br>
+                        <label class="form-control">Partido: &#09; @Model.local_team VS @Model.visitor_team</label>
+                        <label class="form-control">Fecha: &#09; @Model.date_soccergame</label>
+                        <label class="form-control">Cliente: &#09; @Html.DropDownList("clients")</label>
+                        <label class="form-control">
+                            Forma de pago: &#09;
+                            <select name="payway" id="payway">
+                                <option value="Tarjeta de crédito">Tarjeta de crédito</option>
+                                <option value="Transferencia electrónica">Transferencia electrónica</option>
+                                <option value="PayPal">PayPal</option>
+                            </select>
+                        </label>
+                        <br />
+                        <div class="page-header">
+                            <h2>Localidades</h2>
+                        </div>
+                        <table class="table table-bordered table-striped">
+                            <thead>
                                 <tr>
-                                    <td>@Html.DisplayFor(modelItem => localitie.code_locality)</td>
-                                    <td>@Html.DisplayFor(modelItem => localitie.availability)</td>
-                                    <td>@Html.DisplayFor(modelItem => localitie.price)</td>
-                                    <td>                                        
-                                        <input type="text"  pattern="[0-9]+" min="0" max="@localitie.availability"/>
-                                    </td>
+                                    <th>Nombre localidad</th>
+                                    <th>Disponibles</th>
+                                    <th>Precio</th>
+                                    <th>Cantidad</th>
                                 </tr>
-                            }
-                        </tbody>
-
-                    </table>
+                            </thead>
+                            <tbody>
+                                @foreach (var localitie in Model.localities)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(modelItem => localitie.code_locality)</td>
+                                        <td>@Html.DisplayFor(modelItem => localitie.availability)</td>
+                                        <td>@Html.DisplayFor(modelItem => localitie.price)</td>
+                                        <td>
+                                            <input type="text" pattern="[0-9]+" min="0" max="@localitie.availability" name="@localitie.code_locality" id="@localitie.code_locality" />
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        <br />
+                        <input type="submit" class="btn btn-primary" value="Finalizar compra" />
+                        <a href="~/SoccerGames/SoccerGames" class="btn btn-primary">Cancelar</a>
+                    }
                 </div>
             </div>
         </div>

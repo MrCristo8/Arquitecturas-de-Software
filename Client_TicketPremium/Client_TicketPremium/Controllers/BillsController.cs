@@ -16,7 +16,7 @@ namespace Client_TicketPremium.Controllers
             using (WSTicket.WSTicketClient client = new WSTicket.WSTicketClient())
             {
                 SoccerGame soccerGame = client.getSoccerGame(codeSoccerGame);
-                ViewBag.clients = client.getClients().ToList();
+                ViewBag.clients = new SelectList(client.getClients().ToList(), "code_client", "name_client");
                 return View(soccerGame);
             }
         }
