@@ -69,8 +69,8 @@ D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\b
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.xml
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.pdb
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CoreCompileInputs.cache
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CopyComplete
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.dll
 D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.pdb
-D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
