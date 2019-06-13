@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ticketpremiumModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TECLI_CLIENT">
+    <Key>
+      <PropertyRef Name="TECLI_CODIGO" />
+    </Key>
+    <Property Name="TECLI_CODIGO" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="TECLI_NOMBRE" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TEDEF_DETFAC">
+    <Key>
+      <PropertyRef Name="TEFAC_CODIGO" />
+      <PropertyRef Name="TELCP_CODIGO" />
+      <PropertyRef Name="TEPAF_CODIGO" />
+    </Key>
+    <Property Name="TEFAC_CODIGO" Type="int" Nullable="false" />
+    <Property Name="TELCP_CODIGO" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="TEPAF_CODIGO" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TEDEF_CANTID" Type="int" Nullable="false" />
+    <Property Name="TEDEF_SUBTOT" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TEFAC_FACTUR">
+    <Key>
+      <PropertyRef Name="TEFAC_CODIGO" />
+    </Key>
+    <Property Name="TEFAC_CODIGO" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TECLI_CODIGO" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="TEFAC_FECHA" Type="datetime" Nullable="false" />
+    <Property Name="TEFAC_MODPAG" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="TEFAC_TOTAL" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TELCP_LOCPTD">
+    <Key>
+      <PropertyRef Name="TELCP_CODIGO" />
+      <PropertyRef Name="TEPAF_CODIGO" />
+    </Key>
+    <Property Name="TELCP_CODIGO" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="TEPAF_CODIGO" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TELCP_DISPON" Type="int" Nullable="false" />
+    <Property Name="TELCP_PRECIO" Type="float" Nullable="false" />
+    <Property Name="TELCP_CANBAS" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TEPAF_PARFUT">
+    <Key>
+      <PropertyRef Name="TEPAF_CODIGO" />
+    </Key>
+    <Property Name="TEPAF_CODIGO" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TEPAF_LOCAL" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="TEPAF_VISITA" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="TEPAF_FECHA" Type="datetime" Nullable="false" />
+    <Property Name="TEPAF_LUGAR" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_TEDEF_DE_TR_TEFAC__TEFAC_FA">
+    <End Role="TEFAC_FACTUR" Type="Self.TEFAC_FACTUR" Multiplicity="1" />
+    <End Role="TEDEF_DETFAC" Type="Self.TEDEF_DETFAC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEFAC_FACTUR">
+        <PropertyRef Name="TEFAC_CODIGO" />
+      </Principal>
+      <Dependent Role="TEDEF_DETFAC">
+        <PropertyRef Name="TEFAC_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TEDEF_DE_TR_TELCP__TELCP_LO">
+    <End Role="TELCP_LOCPTD" Type="Self.TELCP_LOCPTD" Multiplicity="1" />
+    <End Role="TEDEF_DETFAC" Type="Self.TEDEF_DETFAC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TELCP_LOCPTD">
+        <PropertyRef Name="TELCP_CODIGO" />
+        <PropertyRef Name="TEPAF_CODIGO" />
+      </Principal>
+      <Dependent Role="TEDEF_DETFAC">
+        <PropertyRef Name="TELCP_CODIGO" />
+        <PropertyRef Name="TEPAF_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TEFAC_FA_TR_TECLI__TECLI_CL">
+    <End Role="TECLI_CLIENT" Type="Self.TECLI_CLIENT" Multiplicity="1" />
+    <End Role="TEFAC_FACTUR" Type="Self.TEFAC_FACTUR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TECLI_CLIENT">
+        <PropertyRef Name="TECLI_CODIGO" />
+      </Principal>
+      <Dependent Role="TEFAC_FACTUR">
+        <PropertyRef Name="TECLI_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TELCP_LO_TR_TEPAF__TEPAF_PA">
+    <End Role="TEPAF_PARFUT" Type="Self.TEPAF_PARFUT" Multiplicity="1" />
+    <End Role="TELCP_LOCPTD" Type="Self.TELCP_LOCPTD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEPAF_PARFUT">
+        <PropertyRef Name="TEPAF_CODIGO" />
+      </Principal>
+      <Dependent Role="TELCP_LOCPTD">
+        <PropertyRef Name="TEPAF_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ticketpremiumModelStoreContainer">
+    <EntitySet Name="TECLI_CLIENT" EntityType="Self.TECLI_CLIENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEDEF_DETFAC" EntityType="Self.TEDEF_DETFAC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEFAC_FACTUR" EntityType="Self.TEFAC_FACTUR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TELCP_LOCPTD" EntityType="Self.TELCP_LOCPTD" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEPAF_PARFUT" EntityType="Self.TEPAF_PARFUT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TEDEF_DE_TR_TEFAC__TEFAC_FA" Association="Self.FK_TEDEF_DE_TR_TEFAC__TEFAC_FA">
+      <End Role="TEFAC_FACTUR" EntitySet="TEFAC_FACTUR" />
+      <End Role="TEDEF_DETFAC" EntitySet="TEDEF_DETFAC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TEDEF_DE_TR_TELCP__TELCP_LO" Association="Self.FK_TEDEF_DE_TR_TELCP__TELCP_LO">
+      <End Role="TELCP_LOCPTD" EntitySet="TELCP_LOCPTD" />
+      <End Role="TEDEF_DETFAC" EntitySet="TEDEF_DETFAC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TEFAC_FA_TR_TECLI__TECLI_CL" Association="Self.FK_TEFAC_FA_TR_TECLI__TECLI_CL">
+      <End Role="TECLI_CLIENT" EntitySet="TECLI_CLIENT" />
+      <End Role="TEFAC_FACTUR" EntitySet="TEFAC_FACTUR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TELCP_LO_TR_TEPAF__TEPAF_PA" Association="Self.FK_TELCP_LO_TR_TEPAF__TEPAF_PA">
+      <End Role="TEPAF_PARFUT" EntitySet="TEPAF_PARFUT" />
+      <End Role="TELCP_LOCPTD" EntitySet="TELCP_LOCPTD" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

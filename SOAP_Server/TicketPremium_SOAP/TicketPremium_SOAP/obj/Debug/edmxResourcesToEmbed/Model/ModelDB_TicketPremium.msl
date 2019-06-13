@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ticketpremiumModelStoreContainer" CdmEntityContainer="ticketpremiumEntities">
+    <EntitySetMapping Name="TECLI_CLIENT">
+      <EntityTypeMapping TypeName="ticketpremiumModel.TECLI_CLIENT">
+        <MappingFragment StoreEntitySet="TECLI_CLIENT">
+          <ScalarProperty Name="TECLI_CODIGO" ColumnName="TECLI_CODIGO" />
+          <ScalarProperty Name="TECLI_NOMBRE" ColumnName="TECLI_NOMBRE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEDEF_DETFAC">
+      <EntityTypeMapping TypeName="ticketpremiumModel.TEDEF_DETFAC">
+        <MappingFragment StoreEntitySet="TEDEF_DETFAC">
+          <ScalarProperty Name="TEFAC_CODIGO" ColumnName="TEFAC_CODIGO" />
+          <ScalarProperty Name="TELCP_CODIGO" ColumnName="TELCP_CODIGO" />
+          <ScalarProperty Name="TEPAF_CODIGO" ColumnName="TEPAF_CODIGO" />
+          <ScalarProperty Name="TEDEF_CANTID" ColumnName="TEDEF_CANTID" />
+          <ScalarProperty Name="TEDEF_SUBTOT" ColumnName="TEDEF_SUBTOT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEFAC_FACTUR">
+      <EntityTypeMapping TypeName="ticketpremiumModel.TEFAC_FACTUR">
+        <MappingFragment StoreEntitySet="TEFAC_FACTUR">
+          <ScalarProperty Name="TEFAC_CODIGO" ColumnName="TEFAC_CODIGO" />
+          <ScalarProperty Name="TECLI_CODIGO" ColumnName="TECLI_CODIGO" />
+          <ScalarProperty Name="TEFAC_FECHA" ColumnName="TEFAC_FECHA" />
+          <ScalarProperty Name="TEFAC_MODPAG" ColumnName="TEFAC_MODPAG" />
+          <ScalarProperty Name="TEFAC_TOTAL" ColumnName="TEFAC_TOTAL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TELCP_LOCPTD">
+      <EntityTypeMapping TypeName="ticketpremiumModel.TELCP_LOCPTD">
+        <MappingFragment StoreEntitySet="TELCP_LOCPTD">
+          <ScalarProperty Name="TELCP_CODIGO" ColumnName="TELCP_CODIGO" />
+          <ScalarProperty Name="TEPAF_CODIGO" ColumnName="TEPAF_CODIGO" />
+          <ScalarProperty Name="TELCP_DISPON" ColumnName="TELCP_DISPON" />
+          <ScalarProperty Name="TELCP_PRECIO" ColumnName="TELCP_PRECIO" />
+          <ScalarProperty Name="TELCP_CANBAS" ColumnName="TELCP_CANBAS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEPAF_PARFUT">
+      <EntityTypeMapping TypeName="ticketpremiumModel.TEPAF_PARFUT">
+        <MappingFragment StoreEntitySet="TEPAF_PARFUT">
+          <ScalarProperty Name="TEPAF_CODIGO" ColumnName="TEPAF_CODIGO" />
+          <ScalarProperty Name="TEPAF_LOCAL" ColumnName="TEPAF_LOCAL" />
+          <ScalarProperty Name="TEPAF_VISITA" ColumnName="TEPAF_VISITA" />
+          <ScalarProperty Name="TEPAF_FECHA" ColumnName="TEPAF_FECHA" />
+          <ScalarProperty Name="TEPAF_LUGAR" ColumnName="TEPAF_LUGAR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

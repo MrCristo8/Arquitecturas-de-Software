@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TicketPremium_SOAP.Service.WSTicket" CodeBehind="WSTicket.svc.cs" %>
