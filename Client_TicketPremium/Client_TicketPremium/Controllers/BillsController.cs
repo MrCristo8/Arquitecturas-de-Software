@@ -48,7 +48,7 @@ namespace Client_TicketPremium.Controllers
             {
                 SoccerGame soccerGame = client.getSoccerGame(codeSoccerGame);
                 List<Locality> listLocalities = soccerGame.localities.ToList();
-                foreach(Locality l in listLocalities)
+                foreach (Locality l in listLocalities)
                 {
                     if (l.code_locality.Equals("GENERAL"))
                     {
@@ -63,13 +63,11 @@ namespace Client_TicketPremium.Controllers
                         l.availability = quantityTribuna;
                     }
                 }
-
-                Bill billCreated = client.updateLocalitiesSoccerGame(codeClient, DateTime.Now, codePayway,listLocalities.ToArray());
-
+                Bill billCreated = client.updateLocalitiesSoccerGame(codeClient, DateTime.Now, codePayway, listLocalities.ToArray());
                 return View(billCreated);
             }
 
-            
+
 
         }
 
