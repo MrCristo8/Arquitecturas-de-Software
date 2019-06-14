@@ -64,12 +64,23 @@ namespace Client_TicketPremium.Controllers
                     }
                 }
                 Bill billCreated = client.updateLocalitiesSoccerGame(codeClient, DateTime.Now, codePayway, listLocalities.ToArray());
+
+                float subtotal = billCreated.total / 1.12f;
+                ViewBag.subtotal = subtotal;
+                ViewBag.iva = subtotal * 0.12f;
                 return View(billCreated);
             }
-
-
-
         }
 
+        public ActionResult Bills()
+        {
+            using (WSTicket.WSTicketClient client = new WSTicket.WSTicketClient())
+            {
+                ViewBag.clients = new SelectList(client.getClients().ToList(), "code_client", "name_client");
+                List<Bill> bills = client.getClientBills(Request["clients"]).ToList();
+                return View(bills);
+            }
+        }
     }
+
 }

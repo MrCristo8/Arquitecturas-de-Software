@@ -478,6 +478,12 @@ namespace Client_TicketPremium.WSTicket {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IWSTicket/getClientBills", ReplyAction="http://tempuri.org/IWSTicket/getClientBillsResponse")]
         System.Threading.Tasks.Task<Client_TicketPremium.WSTicket.Bill[]> getClientBillsAsync(string code_client);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IWSTicket/getBill", ReplyAction="http://tempuri.org/IWSTicket/getBillResponse")]
+        Client_TicketPremium.WSTicket.Bill getBill(int code_bill);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IWSTicket/getBill", ReplyAction="http://tempuri.org/IWSTicket/getBillResponse")]
+        System.Threading.Tasks.Task<Client_TicketPremium.WSTicket.Bill> getBillAsync(int code_bill);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -561,6 +567,14 @@ namespace Client_TicketPremium.WSTicket {
         
         public System.Threading.Tasks.Task<Client_TicketPremium.WSTicket.Bill[]> getClientBillsAsync(string code_client) {
             return base.Channel.getClientBillsAsync(code_client);
+        }
+        
+        public Client_TicketPremium.WSTicket.Bill getBill(int code_bill) {
+            return base.Channel.getBill(code_bill);
+        }
+        
+        public System.Threading.Tasks.Task<Client_TicketPremium.WSTicket.Bill> getBillAsync(int code_bill) {
+            return base.Channel.getBillAsync(code_bill);
         }
     }
 }

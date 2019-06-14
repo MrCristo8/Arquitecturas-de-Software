@@ -19,14 +19,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://192.168.1.110:52358/Service/WSTicket.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://192.168.1.105:52358/Service/WSTicket.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="WSTicket3.xsd" MetadataType="Schema" ID="bd4cc6de-7e89-4cd4-97f0-38e7a81ace7f" SourceId="1" SourceUrl="http://192.168.1.110:52358/Service/WSTicket.svc?xsd=xsd2" />
-    <MetadataFile FileName="WSTicket31.xsd" MetadataType="Schema" ID="1e1efb4a-1a73-4222-8104-153644f6d2d3" SourceId="1" SourceUrl="http://192.168.1.110:52358/Service/WSTicket.svc?xsd=xsd1" />
-    <MetadataFile FileName="WSTicket1.wsdl" MetadataType="Wsdl" ID="62997e72-2935-4152-a5b0-074bc54fbe9b" SourceId="1" SourceUrl="http://192.168.1.110:52358/Service/WSTicket.svc?wsdl" />
-    <MetadataFile FileName="WSTicket32.xsd" MetadataType="Schema" ID="be396468-6d19-41f5-991f-ef96a6bd8831" SourceId="1" SourceUrl="http://192.168.1.110:52358/Service/WSTicket.svc?xsd=xsd0" />
-    <MetadataFile FileName="WSTicket1.disco" MetadataType="Disco" ID="9cc1e786-83a7-4b9f-a1ee-887c6c7b6d57" SourceId="1" SourceUrl="http://192.168.1.110:52358/Service/WSTicket.svc?disco" />
+    <MetadataFile FileName="WSTicket.disco" MetadataType="Disco" ID="f0e55d39-3ac5-4078-89fa-3eab5d64d4c4" SourceId="1" SourceUrl="http://192.168.1.105:52358/Service/WSTicket.svc?disco" />
+    <MetadataFile FileName="WSTicket.xsd" MetadataType="Schema" ID="575da434-5d95-4299-81ba-1d4653b9a777" SourceId="1" SourceUrl="http://192.168.1.105:52358/Service/WSTicket.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSTicket1.xsd" MetadataType="Schema" ID="9ea66f35-9e22-49a1-9b3e-7be3a9bb35ba" SourceId="1" SourceUrl="http://192.168.1.105:52358/Service/WSTicket.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSTicket2.xsd" MetadataType="Schema" ID="5c73ec1c-1e50-42cc-848e-ea07827027ba" SourceId="1" SourceUrl="http://192.168.1.105:52358/Service/WSTicket.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSTicket.wsdl" MetadataType="Wsdl" ID="0f141e8d-c2c4-48b5-94e8-260893b22ae6" SourceId="1" SourceUrl="http://192.168.1.105:52358/Service/WSTicket.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
