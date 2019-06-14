@@ -129,6 +129,7 @@
     </Compile>
     <Compile Include="Controllers\BillsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ReportController.cs" />
     <Compile Include="Controllers\SoccerGamesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -207,6 +208,10 @@
     <Content Include="Views\Bills\Bill.cshtml" />
     <Content Include="Views\Bills\Bills.cshtml" />
     <Content Include="Views\Bills\BillView.cshtml" />
+    <Content Include="Views\Report\Index.cshtml" />
+    <Content Include="Views\Report\SoccerGamesAvailable.cshtml" />
+    <Content Include="Views\Report\SoccerGamesNotAvailable.cshtml" />
+    <Content Include="Views\Report\GetReport.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
