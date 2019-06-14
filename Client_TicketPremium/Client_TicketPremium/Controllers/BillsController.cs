@@ -81,6 +81,19 @@ namespace Client_TicketPremium.Controllers
                 return View(bills);
             }
         }
+
+        public ActionResult BillView()
+        {
+            int codeBill = Int32.Parse( Request["code"]);
+            using (WSTicket.WSTicketClient client = new WSTicket.WSTicketClient())
+            {
+                Bill bill = client.getBill(codeBill);
+                float subtotal = bill.total / 1.12f;
+                ViewBag.subtotal = subtotal;
+                ViewBag.iva = subtotal * 0.12f;
+                return View(bill);
+            }
+        }
     }
 
 }

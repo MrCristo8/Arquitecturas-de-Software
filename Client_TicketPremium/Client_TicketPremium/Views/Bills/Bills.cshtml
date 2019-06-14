@@ -49,6 +49,11 @@
                         <td>@Html.DisplayFor(modelItem => bill.date_bill)</td>
                         <td>@Html.DisplayFor(modelItem => bill.way_pay)</td>
                         <td>@Html.DisplayFor(modelItem => bill.total)</td>
+                        <td>
+                            <a href="~/Bills/BillView?code=@bill.code_bill" title="Ver" class="glyphicon-align-center" data-toggle="tooltip">
+                                <i class="material-icons glyphicon-align-center" data-toggle="tooltip">visibility</i>
+                            </a>
+                        </td>
                     </tr>
                 }
             </tbody>
