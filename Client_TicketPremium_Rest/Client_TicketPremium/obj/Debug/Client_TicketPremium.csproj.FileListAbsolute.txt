@@ -1,0 +1,304 @@
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll.config
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.pdb
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe.config
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.rsp
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe.config
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.rsp
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.AppContext.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Collections.Immutable.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Console.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Compression.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Reflection.Metadata.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.AccessControl.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Claims.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.ValueTuple.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe.config
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.rsp
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe.config
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.Web.Infrastructure.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\WebGrease.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.pdb
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CoreCompileInputs.cache
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CopyComplete
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.dll
+D:\ARQUI\Rojas_SOAP_BDD_LOCAL_DOTNET\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.pdb
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll.config
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.pdb
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe.config
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.rsp
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe.config
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.rsp
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.AppContext.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Collections.Immutable.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Console.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Compression.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.AccessControl.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Claims.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.ValueTuple.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe.config
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.rsp
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe.config
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.Web.Infrastructure.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\WebGrease.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.pdb
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CoreCompileInputs.cache
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CopyComplete
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.dll
+E:\Repositories\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.pdb
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll.config
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.pdb
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe.config
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.rsp
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe.config
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.rsp
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.AppContext.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Console.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Compression.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Claims.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.ValueTuple.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe.config
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.rsp
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\WebGrease.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.pdb
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CoreCompileInputs.cache
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CopyComplete
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.dll
+C:\Users\csrm1\Documents\Repositorios\Arquitecturas-de-Software\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.pdb
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll.config
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Client_TicketPremium.pdb
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.exe.config
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csc.rsp
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.exe.config
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\csi.rsp
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.AppContext.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Collections.Immutable.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Console.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Compression.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.IO.Pipes.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Reflection.Metadata.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.AccessControl.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Claims.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.ValueTuple.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.exe.config
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\vbc.rsp
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\roslyn\VBCSCompiler.exe.config
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.Web.Infrastructure.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\WebGrease.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Helpers.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Mvc.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Optimization.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.Razor.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Deployment.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\System.Web.WebPages.Razor.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Newtonsoft.Json.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Antlr3.Runtime.pdb
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csprojAssemblyReference.cache
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CoreCompileInputs.cache
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.csproj.CopyComplete
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.dll
+E:\Alejandro\Documents\Visual Studio 2017\Arqui\Intento4\Client_TicketPremium\Client_TicketPremium\obj\Debug\Client_TicketPremium.pdb
